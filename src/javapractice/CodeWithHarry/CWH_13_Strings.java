@@ -1,4 +1,4 @@
-package CodeWithHarry;
+package javapractice.CodeWithHarry;
 
 
 public class CWH_13_Strings {

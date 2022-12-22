@@ -1,4 +1,4 @@
-package CodeWithHarry;
+package javapractice.CodeWithHarry;
 
 public class CWH_51_Exer4 {
     public static void main(String[] args) {

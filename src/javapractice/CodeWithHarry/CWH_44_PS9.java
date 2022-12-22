@@ -1,4 +1,4 @@
-package CodeWithHarry;
+package javapractice.CodeWithHarry;
 
 
 //Question 1 and 2

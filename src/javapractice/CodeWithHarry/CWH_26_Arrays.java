@@ -1,4 +1,4 @@
-package CodeWithHarry;
+package javapractice.CodeWithHarry;
 
 public class CWH_26_Arrays {
     public static void main(String[] args) {

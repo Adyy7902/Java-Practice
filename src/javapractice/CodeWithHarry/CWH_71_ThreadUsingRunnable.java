@@ -1,4 +1,4 @@
-package CodeWithHarry;
+package javapractice.CodeWithHarry;
 
 class MyThreadRunnable1 implements Runnable{
     @Override

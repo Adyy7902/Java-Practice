@@ -1,4 +1,4 @@
-package CodeWithHarry;
+package javapractice.CodeWithHarry;
 
 public class CWH_IncreDecrement {
     public static void main(String[] args) {

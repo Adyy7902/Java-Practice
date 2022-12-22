@@ -1,10 +1,7 @@
-package CodeWithHarry;
+package javapractice.CodeWithHarry;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
-import java.time.format.DateTimeFormatterBuilder;
-import java.util.Locale;
 
 public class CWH_101_DateTimeFormatter {
     public static void main(String[] args) {

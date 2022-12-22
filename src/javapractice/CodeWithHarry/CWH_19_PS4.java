@@ -1,4 +1,4 @@
-package CodeWithHarry;
+package javapractice.CodeWithHarry;
 import java.util.Scanner;
 
 public class CWH_19_PS4 {

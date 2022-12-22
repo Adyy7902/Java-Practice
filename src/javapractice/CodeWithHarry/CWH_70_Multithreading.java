@@ -1,4 +1,4 @@
-package CodeWithHarry;
+package javapractice.CodeWithHarry;
 
 class MyThread1 extends Thread{
     public void run(){

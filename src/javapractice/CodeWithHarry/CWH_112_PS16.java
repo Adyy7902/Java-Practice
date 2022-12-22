@@ -1,9 +1,8 @@
-package CodeWithHarry;
+package javapractice.CodeWithHarry;
 
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.Scanner;
 
 /**
  * @author V KUMAR

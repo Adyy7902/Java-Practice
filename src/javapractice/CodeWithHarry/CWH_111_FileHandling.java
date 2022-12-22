@@ -1,9 +1,6 @@
-package CodeWithHarry;
+package javapractice.CodeWithHarry;
 
 import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.util.Scanner;
 
 public class CWH_111_FileHandling {
     public static void main(String[] args) {

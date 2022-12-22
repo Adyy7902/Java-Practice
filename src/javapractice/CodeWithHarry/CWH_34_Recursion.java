@@ -1,4 +1,4 @@
-package CodeWithHarry;
+package javapractice.CodeWithHarry;
 import java.util.Scanner;
 
 public class CWH_34_Recursion { //A function in java can call itself. Such calling of function by itself is called "Recursion".
