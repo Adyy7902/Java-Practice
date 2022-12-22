@@ -1,4 +1,4 @@
-package AWT;
+package javapractice.AWT;
 
 // Aditya Kumar Yadav
 // Date : 7-03-2022

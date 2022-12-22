@@ -1,4 +1,4 @@
-package Pack1;
+package javapractice.Pack1;
 
 public class A {
     int i=10;

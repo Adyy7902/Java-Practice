@@ -1,4 +1,4 @@
-package Questions;
+package javapractice.Questions;
 
 /**
  *

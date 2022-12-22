@@ -1,5 +1,5 @@
 
-package ProducerConsumer;
+package javapractice.ProducerConsumer;
 
 class Q{
     int n;

@@ -2,9 +2,9 @@
 // 21-02-2022
 // Write java pakages and import them 
 
-package Pack1; 
-import Pack2.D;
-import Pack2.E;
+package javapractice.Pack1; 
+import javapractice.Pack2.D;
+import javapractice.Pack2.E;
 
 public class Main {
     public static void main(String []args) {

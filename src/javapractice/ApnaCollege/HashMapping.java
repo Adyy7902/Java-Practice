@@ -1,4 +1,4 @@
-package AC;
+package javapractice.ApnaCollege;
 
 import java.util.*;
 /**

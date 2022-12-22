@@ -1,4 +1,4 @@
-package Pack1;
+package javapractice.Pack1;
 
 class C {
     void var(){

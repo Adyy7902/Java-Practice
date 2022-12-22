@@ -1,5 +1,5 @@
-package Pack2;
-import Pack1.A;
+package javapractice.Pack2;
+import javapractice.Pack1.A;
 
 public class E {
     public void var(){

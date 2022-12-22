@@ -1,4 +1,4 @@
-package Threads;
+package javapractice.Threads;
 
 public class Object {
     public void main(String[] args) {

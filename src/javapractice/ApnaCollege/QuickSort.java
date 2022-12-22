@@ -1,4 +1,4 @@
-package AC;
+package javapractice.ApnaCollege;
 
 public class QuickSort {
     public static int partition(int arr[], int low, int high) {

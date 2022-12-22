@@ -1,4 +1,4 @@
-package Pack1;
+package javapractice.Pack1;
 
 class B extends A {
     void var(){

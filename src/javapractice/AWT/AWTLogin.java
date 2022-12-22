@@ -1,4 +1,4 @@
-package AWT;
+package javapractice.AWT;
 
 import java.awt.*;
 

@@ -1,4 +1,4 @@
-package ProducerConsumer;
+package javapractice.ProducerConsumer;
 
 class Q1{
     int n;
